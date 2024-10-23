@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import axios from 'axios';
 import { useRouter } from 'next/navigation';
-import styles from '../../styles/auth.module.css'; // Corrected CSS import
+import styles from '../../Styles/auth.module.css'; 
 import { AiOutlineEye, AiOutlineEyeInvisible } from 'react-icons/ai';
 import Logo from '../../Images/Main Logo.png';
 
